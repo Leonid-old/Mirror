@@ -3,3 +3,4 @@
 2. Полный лог первого включения интерферометра.
    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_interferometer_No1.pdf
 3. О разуме ИИ. Беседа с Леонидом.
+   https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Orion_on_AI_intelligence.pdf
