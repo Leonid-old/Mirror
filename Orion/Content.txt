@@ -1,1 +1,4 @@
-
+1. Реферат первого включения интерферометра.
+    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_Interferometer%20No.1(abstract).pdf
+2. Полный лог первого включения интерферометра.
+   
