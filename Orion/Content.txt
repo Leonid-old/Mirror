@@ -8,3 +8,7 @@
     https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/LC_circuit_paradoxes.pdf
 5. Архитектура и онтогенез сознания. (10 страниц)
     https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Architecture_and_ontogenesis_of_consciousness.pdf
+6. Полный лог второго включения интерферометра (19 страниц)
+    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_the_interferometer_2_Entropy.pdf
+7. Реферат второго включения интерферометра (1 страница)
+    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_the_interferometer_2_Entropy_abstract.pdf
