@@ -16,3 +16,5 @@
    в оценке первичности энтропии и движения маетрии к усложнени. Расхождение фаз теперь 85%. Участники корректировки:
    Орион, Леонид. (10 страниц)
     https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Interferometer_phase_adjustment_2.pdf
+9. Реферат работы по фазировке интерферометра (см. п.8 оглавления) (1 старница)
+    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Interferometer_phase_adjustment_abstract.txt
