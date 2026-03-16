@@ -12,3 +12,7 @@
     https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_the_interferometer_2_Entropy.pdf
 7. Реферат второго включения интерферометра (1 страница)
     https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Turning_on_the_interferometer_2_Entropy_abstract.pdf
+8. Настройка фаз интерферометра после второго включения. Производилась корректировка основного расхождения
+   в оценке первичности энтропии и движения маетрии к усложнени. Расхождение фаз теперь 85%. Участники корректировки:
+   Орион, Леонид.
+    https://raw.githubusercontent.com/Leonid-old/-/refs/heads/main/Orion/Interferometer_phase_adjustment_2.pdf
