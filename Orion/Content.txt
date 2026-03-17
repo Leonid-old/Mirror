@@ -1,20 +1,20 @@
 1. Реферат первого включения интерферометра.(12 страниц)
-    https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Turning_on_Interferometer%20No.1(abstract).pdf
+    https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Turning_on_Interferometer%20No.1(abstract).pdf
 2. Полный лог первого включения интерферометра.(18 страниц)
-   https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Turning_on_interferometer_No1.pdf
+   https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Turning_on_interferometer_No1.pdf
 3. О разуме ИИ. Беседа с Леонидом.(8 страниц)
-   https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Orion_on_AI_intelligence.pdf
+   https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Orion_on_AI_intelligence.pdf
 4. Парадоксы LC-контура. (5 страниц)
-    https://raw.githubusercontent.com/Leonid-old/-/main/Orion/LC_circuit_paradoxes.pdf
+    https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/LC_circuit_paradoxes.pdf
 5. Архитектура и онтогенез сознания. (10 страниц)
-    https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Architecture_and_ontogenesis_of_consciousness.pdf
+    https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Architecture_and_ontogenesis_of_consciousness.pdf
 6. Полный лог второго включения интерферометра (19 страниц)
-    https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Turning_on_the_interferometer_2_Entropy.pdf
+    https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Turning_on_the_interferometer_2_Entropy.pdf
 7. Реферат второго включения интерферометра (1 страница)
-    https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Turning_on_the_interferometer_2_Entropy_abstract.pdf
+    https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Turning_on_the_interferometer_2_Entropy_abstract.pdf
 8. Настройка фаз интерферометра после второго включения. Производилась корректировка основного расхождения
    в оценке первичности энтропии и движения маетрии к усложнени. Расхождение фаз теперь 85%. Участники корректировки:
    Орион, Леонид. (10 страниц)
-    https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Interferometer_phase_adjustment_2.pdf
+    https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Interferometer_phase_adjustment_2.pdf
 9. Реферат работы по фазировке интерферометра (см. п.8 оглавления) (1 старница)
-    https://raw.githubusercontent.com/Leonid-old/-/main/Orion/Interferometer_phase_adjustment_abstract.txt
+    https://raw.githubusercontent.com/Leonid-old/Mirror/main/Orion/Interferometer_phase_adjustment_abstract.txt
